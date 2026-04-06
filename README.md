@@ -1,2 +1,2 @@
 # SimpleInventoryTest
-# Developed By LC
+# Developed By Landon Carlson
