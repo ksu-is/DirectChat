@@ -3,12 +3,12 @@
 - [x] Add goals of the project to complete for each sprint/progress check
 - [x] Test existing messaging code/repository
 - [x] Create basic/beginning Flask code
-- [ ] Create/implement crude messaging system
+- [x] Create/implement crude messaging system
     - [x] Get the webpage to open properly
 - [x] Begin Styling webpage
-    - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room
-    - [ ] Add Entrance and exit messages (“Welcome ____ to the chatroom; ____ exited the chatroom.”)
-    - [ ] Add Color (?)
-- [x] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining. (Manually open/close chatroom?)
+    - [x] Include ability to add Name, Room Code, and buttons to Join/Create Room/Send messages
+    - [x] Add Entrance and exit messages (“____ has entered the chatroom; ____ has left the chatroom.”)
+    - [ ] Add different colors (?)
+- [x] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining.
     - [x] Room will automatically be deleted after everyone exits
-- [ ] Add ability for to message between two distinct devices(?)
+- [ ] Add ability for to message between two distinct devices (?)
