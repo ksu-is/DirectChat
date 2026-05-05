@@ -10,4 +10,4 @@
 #  3. Connect to the program on the other device(s) by typing "http//(IP address):5000" into any web browser (only tested on Chrome (Windows) and Safari/Google (Apple))
 #  4. Create a room on the Host Device's page and use the chat room code at the top of the page to join on the other device(s)
 #  5. Begin sending and receiving messages!
-#  6. To leave Chatroom, simply close the webpage. Refreshing the page will not leave nor close the room.
+#  6. To leave the chat room, simply close the webpage. Refreshing the page will not leave nor close the room.
