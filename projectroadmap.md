@@ -11,4 +11,5 @@
     - [ ] Add different colors (?)
 - [x] Add ability for clients to be able to join and leave at will; chatroom stays open until one or both people leave after initially joining.
     - [x] Room will automatically be deleted after everyone exits
-- [ ] Add ability for to message between two distinct devices (?)
+- [x] Add ability for to message between two distinct devices - Must be on the same WiFi Connection, able to connect through IP Address
+    - [x] Works with multiple devices (as long as all are on the same Wifi network)!
